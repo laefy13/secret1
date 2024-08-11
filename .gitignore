@@ -1,0 +1,6 @@
+__pycache__
+auth.txt
+*.ovpn
+*.db
+test.py
+self_main.py
