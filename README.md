@@ -21,6 +21,7 @@ Go to the project directory
 ```
 
 * Docker
+
 **Note:** Replace the /d/secret1 with your actual directory. Make sure you have a openvpn file or just remove the openvpn+sleep line together in the entrypoint.sh. And make sure that you have the arg for the --id or --url in /app/main.py.
 ```bash
   docker build -t vid .
